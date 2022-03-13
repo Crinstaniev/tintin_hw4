@@ -5,15 +5,6 @@
     "tintin_hw4": {
       "type": "motoko",
       "main": "src/tintin_hw4/main.mo"
-    },
-    "tintin_hw4_assets": {
-      "type": "assets",
-      "source": [
-        "src/tintin_hw4_assets/assets"
-      ],
-      "dependencies": [
-        "tintin_hw4"
-      ]
     }
   },
   "defaults": {
